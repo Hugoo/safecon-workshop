@@ -1,0 +1,17 @@
+{
+  "name": "safecon-workshop",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@erc725/erc725.js": "^0.26.0",
+    "@lukso/eip191-signer.js": "^0.2.2",
+    "@lukso/lsp-smart-contracts": "^0.15.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.12.1"
+  }
+}
